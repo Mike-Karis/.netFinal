@@ -10,7 +10,13 @@ namespace _netFinal
 
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            logger.Info("Program started");
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Hello World!");
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            logger.Info("Program ended");
+            Console.ForegroundColor = ConsoleColor.White;
         }
     }
 }

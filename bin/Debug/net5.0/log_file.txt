@@ -1,0 +1,4 @@
+2021-11-22 08:40:23.1686|INFO|_netFinal.Program|Program started
+2021-11-22 08:40:23.2070|INFO|_netFinal.Program|Program ended
+2021-11-22 08:42:38.8958|INFO|_netFinal.Program|Program started
+2021-11-22 08:42:38.9316|INFO|_netFinal.Program|Program ended
